@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e37ea37-bc81-4bc6-9fad-32fd3da1bdd4": {
+      "ProjectGuid": "6e37ea37-bc81-4bc6-9fad-32fd3da1bdd4",
+      "DisplayName": "CRUDEstados",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ed15c14-4d51-43c9-bf44-d683dd6f1116": {
+      "ProjectGuid": "7ed15c14-4d51-43c9-bf44-d683dd6f1116",
+      "DisplayName": "CRUDEstatus",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
