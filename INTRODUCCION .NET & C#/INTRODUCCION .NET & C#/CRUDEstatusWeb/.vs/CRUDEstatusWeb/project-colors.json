@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67792ca9-5001-4f07-8d71-3e2bfe9770c1": {
+      "ProjectGuid": "67792ca9-5001-4f07-8d71-3e2bfe9770c1",
+      "DisplayName": "CRUDEstatusWeb",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d78f469-b0ec-4cc4-a8df-54c5b9f8059d": {
+      "ProjectGuid": "3d78f469-b0ec-4cc4-a8df-54c5b9f8059d",
+      "DisplayName": "Figuras",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

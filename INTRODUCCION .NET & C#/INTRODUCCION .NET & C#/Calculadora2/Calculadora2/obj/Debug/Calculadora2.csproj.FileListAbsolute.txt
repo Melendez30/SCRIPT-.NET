@@ -1,0 +1,8 @@
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb

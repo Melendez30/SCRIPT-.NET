@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e686b6e6-74f1-4c0b-b6d9-329e1dafcff4": {
+      "ProjectGuid": "e686b6e6-74f1-4c0b-b6d9-329e1dafcff4",
+      "DisplayName": "Datos",
+      "ColorIndex": 0
+    },
+    "2a3dd11a-8b48-4b78-8f11-9e23e6ee7870": {
+      "ProjectGuid": "2a3dd11a-8b48-4b78-8f11-9e23e6ee7870",
+      "DisplayName": "Negocios",
+      "ColorIndex": 1
+    },
+    "b7b997cf-d287-4824-a0de-b77b23ea5af0": {
+      "ProjectGuid": "b7b997cf-d287-4824-a0de-b77b23ea5af0",
+      "DisplayName": "Entidades",
+      "ColorIndex": 2
+    },
+    "f812d969-e4ec-41c3-8c16-c4a6c64bb0a8": {
+      "ProjectGuid": "f812d969-e4ec-41c3-8c16-c4a6c64bb0a8",
+      "DisplayName": "Presentacion",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,350 @@
+﻿++Solución "CRUDAlumnos" ‎(4 de 4 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:CRUDAlumnos.sln
+++Datos
+i:{00000000-0000-0000-0000-000000000000}:Datos
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Properties
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:c:\users\tichs\documents\desarrollador .net\crudalumnos\datos\properties\
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:c:\users\tichs\documents\desarrollador .net\crudalumnos\entidades\properties\
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:c:\users\tichs\documents\desarrollador .net\crudalumnos\negocios\properties\
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\properties\
+++AssemblyInfo.cs
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:c:\users\tichs\documents\desarrollador .net\crudalumnos\datos\properties\assemblyinfo.cs
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:c:\users\tichs\documents\desarrollador .net\crudalumnos\entidades\properties\assemblyinfo.cs
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:c:\users\tichs\documents\desarrollador .net\crudalumnos\negocios\properties\assemblyinfo.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\properties\assemblyinfo.cs
+++Referencias
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Entidades
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{00000000-0000-0000-0000-000000000000}:Entidades
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Microsoft.CSharp
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Newtonsoft.Json
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Configuration
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Configuration.ConfigurationManager
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.Core
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Data
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Data.DataSetExtensions
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Data.OracleClient
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.Net
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.Net.Http
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+++System.Security
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.Security.AccessControl
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.Security.Permissions
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.Security.Principal.Windows
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.ServiceProcess
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.Transactions
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++System.Xml
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Xml.Linq
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++WindowsBase
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:
+++Class1.cs
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:c:\users\tichs\documents\desarrollador .net\crudalumnos\datos\class1.cs
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:c:\users\tichs\documents\desarrollador .net\crudalumnos\entidades\class1.cs
+++DAlumno.cs
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:c:\users\tichs\documents\desarrollador .net\crudalumnos\datos\dalumno.cs
+++DEstado.cs
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:c:\users\tichs\documents\desarrollador .net\crudalumnos\datos\destado.cs
+++DEstatusAlumno.cs
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:c:\users\tichs\documents\desarrollador .net\crudalumnos\datos\destatusalumno.cs
+++packages.config
+i:{e686b6e6-74f1-4c0b-b6d9-329e1dafcff4}:c:\users\tichs\documents\desarrollador .net\crudalumnos\datos\packages.config
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\packages.config
+++Alumno.cs
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:c:\users\tichs\documents\desarrollador .net\crudalumnos\entidades\alumno.cs
+++Estado.cs
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:c:\users\tichs\documents\desarrollador .net\crudalumnos\entidades\estado.cs
+++EstatusAlumno.cs
+i:{b7b997cf-d287-4824-a0de-b77b23ea5af0}:c:\users\tichs\documents\desarrollador .net\crudalumnos\entidades\estatusalumno.cs
+++Negocios
+i:{00000000-0000-0000-0000-000000000000}:Negocios
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++NAlumno.cs
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:c:\users\tichs\documents\desarrollador .net\crudalumnos\negocios\nalumno.cs
+++NEstado.cs
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:c:\users\tichs\documents\desarrollador .net\crudalumnos\negocios\nestado.cs
+++NEstatusAlumno.cs
+i:{2a3dd11a-8b48-4b78-8f11-9e23e6ee7870}:c:\users\tichs\documents\desarrollador .net\crudalumnos\negocios\nestatusalumno.cs
+++Presentacion
+i:{00000000-0000-0000-0000-000000000000}:Presentacion
+++Antlr3.Runtime
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++AspNet.ScriptManager.bootstrap
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++AspNet.ScriptManager.jQuery
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Microsoft.AspNet.FriendlyUrls
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Microsoft.AspNet.Web.Optimization.WebForms
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Microsoft.ScriptManager.MSAjax
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Microsoft.ScriptManager.WebForms
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Microsoft.Web.Infrastructure
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.ComponentModel.DataAnnotations
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Drawing
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.EnterpriseServices
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Web
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Web.ApplicationServices
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Web.DynamicData
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Web.Entity
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Web.Extensions
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Web.Optimization
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++System.Web.Services
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++WebGrease
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:
+++Alumnos
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\
+++Create.aspx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\create.aspx
+++Create.aspx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\create.aspx.cs
+++Create.aspx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\create.aspx.designer.cs
+++Delete.aspx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\delete.aspx
+++Delete.aspx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\delete.aspx.cs
+++Delete.aspx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\delete.aspx.designer.cs
+++Details.aspx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\details.aspx
+++Edit.aspx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\edit.aspx
+++Edit.aspx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\edit.aspx.cs
+++Edit.aspx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\edit.aspx.designer.cs
+++Index.aspx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\index.aspx
+++Index.aspx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\index.aspx.cs
+++Index.aspx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\index.aspx.designer.cs
+++App_Data
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\app_data\
+++App_Start
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\app_start\
+++BundleConfig.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\app_start\bundleconfig.cs
+++RouteConfig.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\app_start\routeconfig.cs
+++Content
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\
+++bootstrap-theme.css
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\bootstrap.css
+++bootstrap.css.map
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\bootstrap.css.map
+++bootstrap.min.css
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\bootstrap.min.css.map
+++Site.css
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\content\site.css
+++fonts
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\fonts\
+++Scripts
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\
+++WebForms
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\
+++bootstrap.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\bootstrap.js
+++bootstrap.min.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\modernizr-2.8.3.js
+++About.aspx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\about.aspx
+++Bundle.config
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\bundle.config
+++Contact.aspx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\contact.aspx
+++Default.aspx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\default.aspx
+++favicon.ico
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\favicon.ico
+++Global.asax
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\global.asax
+++Site.Master
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\site.master
+++Site.Mobile.Master
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\site.mobile.master
+++Site.Mobile.Master.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\site.mobile.master.cs
+++Site.Mobile.Master.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\site.mobile.master.designer.cs
+++ViewSwitcher.ascx
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\viewswitcher.ascx
+++ViewSwitcher.ascx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\viewswitcher.ascx.cs
+++ViewSwitcher.ascx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\viewswitcher.ascx.designer.cs
+++Web.config
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\web.config
+++Details.aspx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\details.aspx.cs
+++Details.aspx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\alumnos\details.aspx.designer.cs
+++glyphicons-halflings-regular.eot
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\fonts\glyphicons-halflings-regular.woff2
+++MSAjax
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\
+++DetailsView.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\detailsview.js
+++Focus.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\focus.js
+++GridView.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\gridview.js
+++Menu.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\menu.js
+++MenuStandards.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\menustandards.js
+++SmartNav.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\smartnav.js
+++TreeView.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\treeview.js
+++WebForms.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\webforms.js
+++WebParts.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\webparts.js
+++WebUIValidation.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\webuivalidation.js
+++About.aspx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\about.aspx.cs
+++About.aspx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\about.aspx.designer.cs
+++Contact.aspx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\contact.aspx.cs
+++Contact.aspx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\contact.aspx.designer.cs
+++Default.aspx.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\default.aspx.cs
+++Default.aspx.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\default.aspx.designer.cs
+++Global.asax.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\global.asax.cs
+++Site.Master.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\site.master.cs
+++Site.Master.designer.cs
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\site.master.designer.cs
+++Web.Debug.config
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\web.debug.config
+++Web.Release.config
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\web.release.config
+++MicrosoftAjax.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajax.js
+++MicrosoftAjaxApplicationServices.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxapplicationservices.js
+++MicrosoftAjaxComponentModel.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxcomponentmodel.js
+++MicrosoftAjaxCore.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxcore.js
+++MicrosoftAjaxGlobalization.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxglobalization.js
+++MicrosoftAjaxHistory.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxhistory.js
+++MicrosoftAjaxNetwork.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxnetwork.js
+++MicrosoftAjaxSerialization.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxserialization.js
+++MicrosoftAjaxTimer.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxtimer.js
+++MicrosoftAjaxWebForms.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxwebforms.js
+++MicrosoftAjaxWebServices.js
+i:{f812d969-e4ec-41c3-8c16-c4a6c64bb0a8}:c:\users\tichs\documents\desarrollador .net\crudalumnos\presentacion\scripts\webforms\msajax\microsoftajaxwebservices.js

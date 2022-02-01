@@ -1,0 +1,16 @@
+C:\Users\Tichs\Documents\DESARROLLADOR.NET\INTRODUCCION.NET Y C#\ADO\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR.NET\INTRODUCCION.NET Y C#\ADO\ADO\obj\Debug\ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR.NET\INTRODUCCION.NET Y C#\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\DESARROLLADOR.NET\INTRODUCCION.NET Y C#\ADO\ADO\bin\Debug\ADO.exe.config
+C:\Users\Tichs\Documents\DESARROLLADOR.NET\INTRODUCCION.NET Y C#\ADO\ADO\bin\Debug\ADO.exe
+C:\Users\Tichs\Documents\DESARROLLADOR.NET\INTRODUCCION.NET Y C#\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR.NET\INTRODUCCION.NET Y C#\ADO\ADO\obj\Debug\ADO.exe
+C:\Users\Tichs\Documents\DESARROLLADOR.NET\INTRODUCCION.NET Y C#\ADO\ADO\obj\Debug\ADO.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\ADO\ADO\ADO\bin\Debug\ADO.exe.config
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\ADO\ADO\ADO\bin\Debug\ADO.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\ADO\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\ADO\ADO\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\ADO\ADO\ADO\obj\Debug\ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\ADO\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\ADO\ADO\ADO\obj\Debug\ADO.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\ADO\ADO\ADO\obj\Debug\ADO.pdb

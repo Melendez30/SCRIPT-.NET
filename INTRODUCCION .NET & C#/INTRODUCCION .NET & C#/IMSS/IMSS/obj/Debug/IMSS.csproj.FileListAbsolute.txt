@@ -1,0 +1,3 @@
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IMSS\IMSS\obj\Debug\IMSS.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IMSS\IMSS\obj\Debug\IMSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IMSS\IMSS\obj\Debug\IMSS.csproj.CoreCompileInputs.cache

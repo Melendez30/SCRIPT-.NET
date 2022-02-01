@@ -1,0 +1,3 @@
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Figuras\Figuras\obj\Debug\Figuras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache

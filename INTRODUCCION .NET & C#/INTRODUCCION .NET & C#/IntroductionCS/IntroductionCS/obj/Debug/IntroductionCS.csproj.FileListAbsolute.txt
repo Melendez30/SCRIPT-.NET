@@ -1,0 +1,8 @@
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IntroductionCS\IntroductionCS\bin\Debug\IntroductionCS.exe.config
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IntroductionCS\IntroductionCS\bin\Debug\IntroductionCS.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IntroductionCS\IntroductionCS\bin\Debug\IntroductionCS.pdb
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IntroductionCS\IntroductionCS\obj\Debug\IntroductionCS.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IntroductionCS\IntroductionCS\obj\Debug\IntroductionCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IntroductionCS\IntroductionCS\obj\Debug\IntroductionCS.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IntroductionCS\IntroductionCS\obj\Debug\IntroductionCS.exe
+C:\Users\Tichs\Documents\DESARROLLADOR .NET\INTRODUCCION .NET & C#\IntroductionCS\IntroductionCS\obj\Debug\IntroductionCS.pdb
